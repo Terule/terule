@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Ibitelecom
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+<!-- - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
