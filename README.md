@@ -1,4 +1,4 @@
-## Olá, eu sou o Rafael!
+## Olá! Eu sou o Rafael Aguiar, atualmente estudante de full-stack na [Trybe](www.betrybe.com) e podcaster nas horas vagas!
 
 <div align="center">
   <a href="https://github.com/Terule">
@@ -24,16 +24,13 @@
   <a href = "mailto:terule@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aguiar-fael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com//Terule/terule/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Terule/terule/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-- 🔭 Atualmente estutando na [Trybe](www.betrybe.com)
-- 🌱 Estudando HTML, CSS, JAVASCRIPT
-- 💬 Ask me about ... -->
-- 📫 How to reach me: 
-- <p>Twitter: <a href="http://www.twitter.com/terule_" target="blank">@terule_</a></p>
-- <p>Instagram: <a href="https://www.instagram.com/aguiar_fael" target="blank">@aguiar_fael</a>
-- <p>Email: <a href="mailto:terule@gmail.com">terule@gmail.com</a></p>
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+  
+  # 3 de Vida - O seu PodCast do coração!
+  
+  <div align="center">
+     <a href="https://linktr.ee/3devida" target="_blank"><img hight="200px" width="200px" src="https://i.ibb.co/SRJ347B/3-de-vida-Logo-2-3000x3000-cantos-redondos-01.png" target="_blank"></a>
+     
+  </div>
