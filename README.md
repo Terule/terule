@@ -1,9 +1,9 @@
-## Olá! Eu sou o Rafael Aguiar, atualmente estudante de full-stack na [Trybe](www.betrybe.com) e podcaster nas horas vagas!
+## Olá! Eu sou o Rafael Aguiar, atualmente estudante de desenvolvimento web na [Trybe](www.betrybe.com) e podcaster nas horas vagas!
 
 <div align="center">
   <a href="https://github.com/Terule">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Terule&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terule&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Terule&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terule&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <!-- <div style="display: inline_block"><br>
