@@ -1,24 +1,55 @@
 ## Olá! Eu sou o Rafael Aguiar, atualmente estudante de desenvolvimento web na [Trybe](www.betrybe.com) e podcaster nas horas vagas!
+  <div>
+    <a href="#"><img align="right" src="https://raw.githubusercontent.com/gist/Terule/626b42537d3166318e96fa0e789172be/raw/3857eabb195e284e442f63631bd6d5fc59dfc4e7/profilepicture.svg"></img></a>
+  </div>
+  <div align="left"><br>
+  </div>
+  
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+  
+  ## :hammer_and_wrench: &nbsp; Tech Stack
+  
+  
+   <div style="display: inline_block" align="center"><br>
+      <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+ <br>
+ <br>
+ <br>
+ 
+## :chart_with_upwards_trend: &nbsp; Github Stats
 
+<br>
 <div align="center">
   <a href="https://github.com/Terule">
   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Terule&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terule&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
   
-  <!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div> -->
+##
   
-  ##
-  
-  <div> 
+  <div align="center"> 
   <a href="https://instagram.com/aguiar_fael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/terule" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:terule@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
