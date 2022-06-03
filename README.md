@@ -26,14 +26,9 @@
  <br>
   
   ## :hammer_and_wrench: &nbsp; Tech Stack
+  <br>
   
-  
-   <div style="display: inline_block" align="center"><br>
-      <a href="#"><img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>
-      <a href="#"><img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>
-      <a href="#"><img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>
-      <a href="#"><img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
-   </div>
+[![My Skills](https://skillicons.dev/icons?i=git,github,js,html,css,bootstrap)](https://terule.github.io)
  <br>
  <br>
  <br>
