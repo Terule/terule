@@ -28,7 +28,7 @@
   ## :hammer_and_wrench: &nbsp; Tech Stack
   <br>
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,js,html,css,bootstrap,jest)](https://terule.github.io)
+[![My Skills](https://skillicons.dev/icons?i=git,github,js,html,css,bootstrap,jest,react)](https://terule.github.io)
  <br>
  <br>
  <br>
