@@ -1,45 +1,24 @@
 ## Olá! Eu sou o Rafael Aguiar, atualmente estudante de desenvolvimento web na [Trybe](www.betrybe.com) e podcaster nas horas vagas!
-  <div>
-    <a href="#"><img align="right" src="https://raw.githubusercontent.com/gist/Terule/626b42537d3166318e96fa0e789172be/raw/3857eabb195e284e442f63631bd6d5fc59dfc4e7/profilepicture.svg"></img></a>
-  </div>
-  <div align="left"><br>
-  </div>
-  
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
-  
-  ## :hammer_and_wrench: &nbsp; Tech Stack
+
+<div align="center">
+  <h1>:hammer_and_wrench: &nbsp; Tech Stack</h1>
   <br>
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,js,html,css,bootstrap,jest,react,redux,docker&perline=8)](https://terule.github.io)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,react,vite,js,ts,materialui,redux,nodejs,express,mysql,mongodb,prisma,sequelize,jest,docker)](https://terule.github.io)
  <br>
  <br>
  <br>
+ </div>
  
 ## :chart_with_upwards_trend: &nbsp; Github Stats
 
 <br>
+
 <div align="center">
   <a href="https://github.com/Terule">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=Terule&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true"/>
-  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terule&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Terule&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terule&layout=compact&langs_count=7&theme=tokyonight&count_private=true" />
+  </a>
 </div>
 <br>
   
