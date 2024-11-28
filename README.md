@@ -1,10 +1,10 @@
-## Olá! Eu sou o Rafael Aguiar, atualmente estudante de desenvolvimento web na [Trybe](www.betrybe.com) e podcaster nas horas vagas!
+## Olá! Eu sou o Rafael Aguiar, desenvolvedor Full-Stack e (ex) podcaster nas horas vagas!
 
 <div align="center">
   <h1>:hammer_and_wrench: &nbsp; Tech Stack</h1>
   <br>
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,react,vite,js,ts,materialui,redux,nodejs,express,mysql,mongodb,prisma,sequelize,jest,docker)](https://terule.github.io)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,react,vite,js,ts,materialui,nodejs,express,mysql,mongodb,prisma,docker)](https://terule.github.io)
  <br>
  <br>
  <br>
