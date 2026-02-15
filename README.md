@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafael Aguiar, desenvolvedor Full-Stack e (ex) podcaster nas horas vagas!
+## Olá! Eu sou o Rafael Aguiar, desenvolvedor Full-Stack e gamer!
 
 <div align="center">
   <h1>:hammer_and_wrench: &nbsp; Tech Stack</h1>
